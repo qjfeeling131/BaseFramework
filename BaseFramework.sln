@@ -10,11 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Abp", "..\..\LeaseService\src\Abp\Abp.xproj", "{CFA6AC92-6637-4FCB-89A6-97208AD587F5}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Abp", "src\Abp\Abp.xproj", "{CFA6AC92-6637-4FCB-89A6-97208AD587F5}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Abp.DoNetCore", "src\Abp.DoNetCore\Abp.DoNetCore.xproj", "{0BF34DF4-1201-4D60-BBAF-BFAF3AE85AF7}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "BaseService", "src\BaseService\BaseService.xproj", "{C4CD8D46-9BC2-41FB-95B6-7BFEFA8B240E}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Abp", "..\..\LeaseService\src\Abp\Abp.xproj", "{92F91677-B2C9-458E-830C-1316A9B3B83C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +36,10 @@ Global
 		{C4CD8D46-9BC2-41FB-95B6-7BFEFA8B240E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4CD8D46-9BC2-41FB-95B6-7BFEFA8B240E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4CD8D46-9BC2-41FB-95B6-7BFEFA8B240E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F91677-B2C9-458E-830C-1316A9B3B83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F91677-B2C9-458E-830C-1316A9B3B83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F91677-B2C9-458E-830C-1316A9B3B83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F91677-B2C9-458E-830C-1316A9B3B83C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
