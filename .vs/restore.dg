@@ -1,0 +1,4 @@
+#:G:\pari-WorkFiles\MyProject\BaseFramework\BaseFramework\src\BaseService\BaseService.xproj
+G:\pari-WorkFiles\MyProject\BaseFramework\BaseFramework\src\BaseService\BaseService.xproj|G:\pari-WorkFiles\MyProject\LeaseService\src\Abp\Abp.xproj
+G:\pari-WorkFiles\MyProject\BaseFramework\BaseFramework\src\BaseService\BaseService.xproj|G:\pari-WorkFiles\MyProject\BaseFramework\BaseFramework\src\Abp.DoNetCore\Abp.DoNetCore.xproj
+G:\pari-WorkFiles\MyProject\BaseFramework\BaseFramework\src\Abp.DoNetCore\Abp.DoNetCore.xproj|G:\pari-WorkFiles\MyProject\LeaseService\src\Abp\Abp.xproj
